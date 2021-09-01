@@ -11,7 +11,7 @@ Steps to create our working environment:
 - Make sure you have [Docker](https://docs.docker.com/get-docker/) installed on your system.
     - If you are running Linux, make sure to follow the additional post-installation step [Manage Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user).
 - Make sure you have [VS Code](https://code.visualstudio.com/) installed on your system.
-- Open this repository in VS Code.
+- Clone and open this repository in VS Code.
 - Click on the extensions icon in the toolbar: ![Extensions icon](docs/extensions.png).
 - Search for the *"Remote Development"* extension and press the install button ![Install button](docs/install.png).
 - (Optional) Search for the *"Docker"* extension and install this extension. It allows you to manage containers from within VS Code.
