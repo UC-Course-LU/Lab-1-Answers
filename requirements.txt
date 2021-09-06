@@ -6,3 +6,4 @@ openrouteservice
 folium
 foursquare
 line_profiler
+ipykernel<6
