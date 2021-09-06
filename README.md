@@ -10,7 +10,7 @@ We will be using Visual Studio Code (VS Code) as IDE. The container development 
 Steps to create our working environment:
 - Make sure you have [Docker](https://docs.docker.com/get-docker/) installed on your system.
     - If you are running Linux, make sure to follow the additional post-installation step [Manage Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user).
-- Make sure you have [VS Code](https://code.visualstudio.com/) installed on your system.
+- Make sure you have [VS Code](https://code.visualstudio.com/) installed on your system. You also might have to resart your PC if you run into permission issues afterwards.
 - Clone and open this repository in VS Code.
 - Click on the extensions icon in the toolbar: ![Extensions icon](docs/extensions.png).
 - Search for the *"Remote Development"* extension and press the install button ![Install button](docs/install.png).
@@ -26,7 +26,7 @@ Your can now open the notebook *"Lab1_Exercises.ipynb"* and start working on you
 ## Tips
 - You can install additional Python packages while within the Python container through: `pip install <your package>`.
 - A light VS Code theme might be preferred while working with Python notebooks
-    - To change themes: File -> Preferences -> Color Theme
+    - To change themes: File/Code -> Preferences -> Color Theme
 
 ## References
 ### Development Containers
