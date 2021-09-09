@@ -7,6 +7,8 @@ Before we can work on them we need to set up the environment that we will use du
 ## Installation
 We will be using Visual Studio Code (VS Code) as IDE. The container development functionality of VS Code provides us better reproducibility and will help tremendously in running the code on different machines without effort.
 
+**NOTE: Installing Docker is only possible if you are working on a machine where you have administrator rights.** If you do not have administrator rights, you can work on this notebook via a standard python3 venv environment.
+
 Steps to create our working environment:
 - Make sure you have [Docker](https://docs.docker.com/get-docker/) installed on your system.
     - If you are running Linux, make sure to follow the additional post-installation step [Manage Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user).
